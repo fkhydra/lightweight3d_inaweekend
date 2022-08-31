@@ -1,4 +1,4 @@
 # lightweight3d_inaweekend
 Downloadable contents of the book 'Lightweight 3D programming in a weekend'.
 
-You can use the source codes here for any purpose, but the origin of this software must not be misrepresented: you must not claim or state that you wrote the original software.
+While developing the algorithms publicated here, the author was inspired also by Dmitry V. Sokolov’s tinyrenderer algorithms: https://github.com/ssloy/tinyrenderer
